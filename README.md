@@ -1,0 +1,2 @@
+# Dalil
+A guiding application.
